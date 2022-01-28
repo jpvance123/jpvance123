@@ -11,7 +11,7 @@ Hello, welcome to my github repo! Please visit my [Personal Website](https://jpv
 
 # About Me
 - :man_student: Graduating this May (2022) with a B.S. in Computer Science at Southern Illinois University in Carbondale 
-- Currently preparing to take the :cloud: AWS Certified Solutions Architect	:cloud: in late May, early April.
+- Currently preparing to take the :cloud: AWS Certified Solutions Architect	:cloud: in late March, early April.
 - Looking to gain valuable experince fresh out of college, and am a very efficent learner who can master new skills quickly.
 - Hobbies Include: Football :football:, Golf 🏌️‍♂️, Beer :beer:, Disc Golf :flying_disc:, VideoGames :video_game:, My Golden doodlen :dog2:
 - Current Courses and areas of Research Include:
