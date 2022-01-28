@@ -41,6 +41,3 @@ Hello, welcome to my github repo! Please visit my [Personal Website](https://jpv
   - I am spearheading development on this project and am in the project planning phases currently
   - More to come soon! 
 - Cloud Solutions Arhitect Project TBD 
-
-## Contact
-[![jpvance123@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:jpvance123@gmail.com)](mailto:jpvance123@gmail.com)[![John Vances Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/Congratz-you-have-made-it)](www.linkedin.com/in/Congratz-you-have-made-it) 
