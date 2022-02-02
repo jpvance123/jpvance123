@@ -1,5 +1,5 @@
 
-# 👨🏻‍💻 [John Vance](https://jpvance123.github.io/Profile-Page/#) [@jpvance123](https://jpvance123.github.io/Profile-Page/#)
+# 👨🏻‍💻 [John Vance](www.linkedin.com/in/Congratz-you-have-made-it) [@jpvance123](https://jpvance123.github.io/Profile-Page/#)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/Congratz-you-have-made-it)](www.linkedin.com/in/Congratz-you-have-made-it) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:jpvance123@gmail.com)](mailto:jpvance123@gmail.com)
 
