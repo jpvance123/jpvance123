@@ -1,13 +1,13 @@
 
 # 👨🏻‍💻 [John Vance](https://linkedin.com/in/Congratz-you-have-made-it) [@jpvance123](https://jpvance123.github.io/Profile-Page/#)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/Congratz-you-have-made-it)](www.linkedin.com/in/Congratz-you-have-made-it) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:jpvance123@gmail.com)](mailto:jpvance123@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/Congratz-you-have-made-it)](www.linkedin.com/in/Congratz-you-have-made-it) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:jpvance123@gmail.com)](mailto:jpvance123@gmail.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JPVSolutions) [![Instagram Bade](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpvance123)
 
 <!-- :man_technologist: Personal Site: [John-Vance](https://jpvance123.github.io/Profile-Page/) :mailbox_with_mail: Linkedin: [JohnVance](https://john-vance.netlify.app/) -->
 
 
 # Home
-Hello, welcome to my github repo! Please visit my [Personal Website](https://john-vance.netlify.app/) for more information, and best ways to contact me for prospective employers. 
+Hello, welcome to my github page! Please visit my [Personal Website](https://john-vance.netlify.app/) for more information, and best ways to contact me for prospective employers. 
 
 # About Me
 - :man_student: Graduated this May (2022) with a B.S. in Computer Science at Southern Illinois University in Carbondale. 
