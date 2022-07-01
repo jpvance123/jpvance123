@@ -9,7 +9,7 @@
 # Home
 Hello, welcome to my github page! Please visit my [Personal Website](https://john-vance.netlify.app/) for more information, and best ways to contact me for prospective employers. 
 
-Portfolio: [Portfolio Showcase](https://john-vance.netlify.app/)
+Portfolio: [Portfolio Showcase](https://john-vance.netlify.app/) <br />
 DApp: [DApp with Solidity and React](https://dappjohnvance.netlify.app/)
 
 # About Me
